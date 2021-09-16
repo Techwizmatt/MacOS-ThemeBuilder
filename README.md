@@ -6,7 +6,7 @@ Before anything please note this tool is used at your own desecration, You're Ma
 
 # How?
 
-- Does this work: We run scipts that move things into place automatically for you based of a `icon set template`.
+- Does this work: We run scipts that move things into place automatically for you based off a `icon set template`.
 
 # Why?
 
